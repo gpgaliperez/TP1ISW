@@ -6,7 +6,9 @@
 
 #2.e Modificación en Release-1
 
-# 2.g Llevar al entorno productivo Release 1. ¿Cómo lo hace siguiendo Gitflow?
+#2.f Modificaciones en Release-2 después del PR
+
+#2.g Llevar al entorno productivo Release 1. ¿Cómo lo hace siguiendo Gitflow?
 
 C:\Users\gpgal\StudioProjects\TP1ISW>git flow init
 
@@ -29,4 +31,5 @@ Hotfix branches? [hotfix/]
 Support branches? [support/]
 Version tag prefix? []
 Hooks and filters directory? [C:/Users/gpgal/StudioProjects/TP1ISW/.git/hooks]
+
 
