@@ -2,11 +2,9 @@
 
 #2.a Primera modificación
 
-#2.b al crear el repositorio desde Android Studio se crea por defecto el archivo .gitIgnore
+#2.b Al crear el repositorio desde Android Studio se crea por defecto el archivo .gitIgnore
 
-
-
-
+#2.e Modificación en Release-1
 
 # 2.g Llevar al entorno productivo Release 1. ¿Cómo lo hace siguiendo Gitflow?
 
@@ -31,3 +29,4 @@ Hotfix branches? [hotfix/]
 Support branches? [support/]
 Version tag prefix? []
 Hooks and filters directory? [C:/Users/gpgal/StudioProjects/TP1ISW/.git/hooks]
+
